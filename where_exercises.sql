@@ -1,5 +1,4 @@
-USE
-employees;
+USE employees;
 
 --     Part One
 -- Finding employees in the employees database who have the first names 'Irena', 'Vidya', 'Maya'
